@@ -1,11 +1,12 @@
-👋 Hi, I’m Huzaifa Qureshi
-👀 I am Web Developer, my Tech Stack is MERN
-🌱 I’m currently learning WEB3
-My Portfolio website : www.developerhuzaifa.online
-📫 Feel Free to connect with me : 
-[![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huzaifa-qureshi-174173179)](https://www.linkedin.com/in/huzaifa-qureshi-174173179)
-[![Gmail Badge](https://img.shields.io/badge/-mdraanik12@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developerhuzaifa@gmail.com)](mailto:developerhuzaifa@gmail.com)
+### 👋 Hi, I’m Huzaifa Qureshi
+I am Web Developer, my Tech Stack is MERN
 
+
+📫 Feel Free to connect with me : 
+[![Linkedin Badge](https://img.shields.io/badge/-Huzaifa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huzaifa-qureshi-174173179)](https://www.linkedin.com/in/huzaifa-qureshi-174173179)
+[![Gmail Badge](https://img.shields.io/badge/-developerhuzaifa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developerhuzaifa@gmail.com)](mailto:developerhuzaifa@gmail.com)
+
+My Portfolio website : [www.developerhuzaifa.online](https://www.developerhuzaifa.online)
 
 ## ⚡ Technologies
 
@@ -23,4 +24,4 @@ My Portfolio website : www.developerhuzaifa.online
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Huzaifa-code&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-code&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Huzaifa-code.Huzaifa-code)
