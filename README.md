@@ -5,6 +5,8 @@ I am Web Developer, my Tech Stack is MERN
 📫 Feel Free to connect with me : 
 [![Linkedin Badge](https://img.shields.io/badge/-Huzaifa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huzaifa-qureshi-174173179)](https://www.linkedin.com/in/huzaifa-qureshi-174173179)
 [![Gmail Badge](https://img.shields.io/badge/-developerhuzaifa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developerhuzaifa@gmail.com)](mailto:developerhuzaifa@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/developer_huzaifa-1877F2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/developer_huzaifa)]
+
 
 My Portfolio website : [www.developerhuzaifa.online](https://www.developerhuzaifa.online)
 
