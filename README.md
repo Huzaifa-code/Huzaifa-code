@@ -8,7 +8,7 @@ I am Web Developer, my Tech Stack is MERN
 [![Instagram Badge](https://img.shields.io/badge/developer_huzaifa-1877F2?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/developer_huzaifa)](https://www.instagram.com/developer_huzaifa)
 
 
-My Portfolio website : [www.developerhuzaifa.online](https://www.developerhuzaifa.site)
+My Portfolio website : [www.developerhuzaifa.site](https://www.developerhuzaifa.site)
 
 ## ⚡ Technologies
 
