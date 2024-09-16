@@ -23,7 +23,7 @@ My Portfolio website : [www.developerhuzaifa.site](https://www.developerhuzaifa.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats-huzaifacodes-projects.vercel.app/api?username=Huzaifa-code&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats-huzaifacodes-projects.vercel.app/api?username=Huzaifa-code&count_private=true&show_icons=true)
 
 ![Top Langs](https:///github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-code&hide=TeX&layout=compact)
 
