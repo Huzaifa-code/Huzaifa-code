@@ -17,7 +17,7 @@ My Portfolio website : [www.developerhuzaifa.site](https://www.developerhuzaifa.
 ![PostgresSQL](https://img.shields.io/badge/-PostgreSql-black?style=flat-square&logo=postgresql)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC-black?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
