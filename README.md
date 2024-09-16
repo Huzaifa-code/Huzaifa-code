@@ -25,6 +25,6 @@ My Portfolio website : [www.developerhuzaifa.site](https://www.developerhuzaifa.
 
 ![Github Stats](https://github-readme-stats-huzaifacodes-projects.vercel.app/api?username=Huzaifa-code&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-code&hide=TeX&layout=compact)
+![Top Langs](https:///github-readme-stats-huzaifacodes-projects.vercel.app/api/top-langs/?username=Huzaifa-code&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Huzaifa-code.Huzaifa-code)
