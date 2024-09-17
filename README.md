@@ -5,9 +5,7 @@ I am Web & App Developer, my Tech Stack is MERN,React Native, PostgreSQL
 ## 📫 Connect with me : 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Huzaifa-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huzaifa-qureshi-174173179)](https://www.linkedin.com/in/huzaifa-qureshi-174173179)
-
 [![Gmail Badge](https://img.shields.io/badge/-developerhuzaifa@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:developerhuzaifa@gmail.com)](mailto:developerhuzaifa@gmail.com)
-
 [![Instagram Badge](https://img.shields.io/badge/developer_huzaifa-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/developer_huzaifa)](https://www.instagram.com/developer_huzaifa)
 
 
