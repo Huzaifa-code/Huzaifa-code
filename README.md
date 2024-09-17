@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Huzaifa Qureshi
-I am Web & Developer, my Tech Stack is MERN,React Native, PostgreSQL
+I am Web & App Developer, my Tech Stack is MERN,React Native, PostgreSQL
 
 
 ## 📫 Connect with me : 
