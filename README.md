@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Huzaifa Qureshi
 
-![alt text](https://i.imgur.com/AbgqIg0.png)
+![alt text](https://i.imgur.com/42clC4a.png)
 
 
 I am Web & App Developer, my Tech Stack is MERN,React Native, PostgreSQL
