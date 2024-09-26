@@ -38,4 +38,9 @@ I am Web & App Developer, my Tech Stack is MERN,React Native, PostgreSQL
 
 ![Top Langs](https://github-readme-stats-huzaifacodes-projects.vercel.app/api/top-langs/?username=Huzaifa-code&hide=TeX&layout=compact&theme=dark)
 
+## Open Source Contributions
+- Contributed to Linux Lite OS (lite theme manager) on [GitLab](https://gitlab.com/linuxlite/litethememanager)
+- Also created AI chat support for linux lite [link](https://linuxliteos.com/chatai/)
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Huzaifa-code.Huzaifa-code)
