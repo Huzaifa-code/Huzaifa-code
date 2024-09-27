@@ -35,7 +35,6 @@ I am Web & App Developer, my Tech Stack is MERN,React Native, PostgreSQL
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ![Github Stats](https://github-readme-stats-huzaifacodes-projects.vercel.app/api?username=Huzaifa-code&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats-huzaifacodes-projects.vercel.app/api/top-langs/?username=Huzaifa-code&hide=TeX&layout=compact&theme=dark)
 
 ## Open Source Contributions
