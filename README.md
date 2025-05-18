@@ -15,7 +15,7 @@ I am Web & App Developer, my Tech Stack is MERN,React Native, PostgreSQL
 
 ## My Portfolio website : 
 
-[![www.developerhuzaifa.space](https://img.shields.io/badge/-www.developerhuzaifa.site-731FFC?style=flat-square&logo=laptop)](https://www.developerhuzaifa.space)
+[![www.developerhuzaifa.space](https://img.shields.io/badge/-www.developerhuzaifa.space-731FFC?style=flat-square&logo=laptop)](https://www.developerhuzaifa.space)
 
 
 
